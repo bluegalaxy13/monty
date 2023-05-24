@@ -85,7 +85,7 @@ user@ubuntu:~/monty$
 | monty.h | Header file containing all the functions prototypes, structs and standard C libraries included |
 | monty_main.c | Core of the program - Handle all the conections. |
 | monty_run.c | Function that reads the standard input and stores the info. |
-| errors.c | Function that splits a string into tokens. |
+| monty_errors.c | Function that splits a string into tokens. |
 | README.md | Readme file with all the information need to run **monty** interpreter |
 
 ## Usage Examples
