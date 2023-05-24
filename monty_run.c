@@ -3,6 +3,8 @@
  * Authors:	Ricardo Sass
  */
 
+#define  _GNU_SOURCE
+#include <stdio.h>
 #include "monty.h"
 
 /**
