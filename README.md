@@ -2,7 +2,7 @@
 
 > This directory contains all the tasks of the project "0x19. C - Stacks, Queues - LIFO, FIFO"
 
-![GitHub repo size](https://img.shields.io/github/repo-size/bluegalaxy13/monty?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/bluegalaxy13/monty?style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/bluegalaxy13/monty?style=for-the-badge) 
+![GitHub last commit](https://img.shields.io/github/last-commit/bluegalaxy13/monty?style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/bluegalaxy13/monty?style=for-the-badge) 
 
 ## Table of Contents
 
